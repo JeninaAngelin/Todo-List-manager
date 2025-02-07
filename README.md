@@ -47,4 +47,4 @@ or
 python todo_with_date.py
 ```
 
-For todo.py tasks get stored in tasks.txt and for todo_with_date.py tasks are stored in tasks_new.txt
+For `todo.py`, tasks get stored in `tasks.txt`, and for `todo_with_date.py`, tasks are stored in `tasks_new.txt`.
