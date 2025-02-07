@@ -41,3 +41,10 @@ Execute the script from the terminal or command prompt:
 python todo.py
 ```
 
+or
+
+```sh
+python todo_with_date.py
+```
+
+For todo.py tasks get stored in tasks.txt and for todo_with_date.py tasks are stored in tasks_new.txt
