@@ -1,0 +1,4 @@
+attend meeting|True
+attend meeting|False
+check mail|True
+send coursework|False
